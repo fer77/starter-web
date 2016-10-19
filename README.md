@@ -15,3 +15,5 @@ copyright notice.
 
 ## Random Text for Rebasing
 Adding a line for newfeature branch
+
+2016 all right reserved
