@@ -16,3 +16,4 @@ and all those who could care less.
 
     HTML5, CSS3
     jQuery, Modernizr
+    Git.
